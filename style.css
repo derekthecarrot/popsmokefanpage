@@ -14,3 +14,9 @@ h2 {
 .borderpop {
     border: 5px solid darkgoldenrod
 }
+
+.biography1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: orangered
+}
