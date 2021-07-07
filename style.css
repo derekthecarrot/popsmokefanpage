@@ -7,6 +7,10 @@ h2 {
     text-align:center
 }
 
-.honorable {
+.Honorable {
     color:darkblue
+}
+
+.borderpop {
+    border: 5px solid darkgoldenrod
 }
